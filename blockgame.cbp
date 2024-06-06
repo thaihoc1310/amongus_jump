@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="blockgame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/blockgame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-mwindows" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/blockgame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Headers/background/background.h" />
+		<Unit filename="Headers/characters/ai.h" />
+		<Unit filename="Headers/characters/bigenemy.h" />
+		<Unit filename="Headers/characters/character.h" />
+		<Unit filename="Headers/characters/enemy.h" />
+		<Unit filename="Headers/games/game.h" />
+		<Unit filename="Headers/games/gameconstants.h" />
+		<Unit filename="Headers/games/soundconstants.h" />
+		<Unit filename="Headers/items/explosion.h" />
+		<Unit filename="Headers/items/invisible.h" />
+		<Unit filename="Headers/items/monster.h" />
+		<Unit filename="Headers/items/nogravity.h" />
+		<Unit filename="Headers/items/skill.h" />
+		<Unit filename="Sources/background/background.cpp" />
+		<Unit filename="Sources/characters/ai.cpp" />
+		<Unit filename="Sources/characters/bigenemy.cpp" />
+		<Unit filename="Sources/characters/character.cpp" />
+		<Unit filename="Sources/characters/enemy.cpp" />
+		<Unit filename="Sources/games/game.cpp" />
+		<Unit filename="Sources/items/explosion.cpp" />
+		<Unit filename="Sources/items/invisible.cpp" />
+		<Unit filename="Sources/items/monster.cpp" />
+		<Unit filename="Sources/items/nogravity.cpp" />
+		<Unit filename="Sources/items/skill.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

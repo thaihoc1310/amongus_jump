@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1713604979 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\character.cpp
+	"Character.h"
+
+1713067850 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\character.h
+	"gameconstants.h"
+
+1712900309 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\enemy.cpp
+	"Enemy.h"
+
+1713067894 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\enemy.h
+	"gameconstants.h"
+
+1714036898 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\main.cpp
+	"Headers/games/game.h"
+
+1713711361 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\game.h
+	<iomanip>
+	<algorithm>
+	<thread>
+	<fstream>
+	"gameconstants.h"
+	"Character.h"
+	"Enemy.h"
+	"Skill.h"
+	"monster.h"
+	"explosion.h"
+	"invisible.h"
+	"nogravity.h"
+	"bigenemy.h"
+
+1713713886 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\game.cpp
+	"Game.h"
+
+1712715776 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\skill.cpp
+	"skill.h"
+
+1713067857 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\skill.h
+	"gameconstants.h"
+	"Character.h"
+	"Enemy.h"
+
+1711288046 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\explosion.cpp
+	"explosion.h"
+
+1710919703 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\explosion.h
+	<SDL.h>
+	"Character.h"
+	"Enemy.h"
+	<vector>
+
+1713608864 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\invisible.cpp
+	"invisible.h"
+
+1713067884 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\invisible.h
+	"Character.h"
+
+1713067903 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\monster.h
+	"Character.h"
+
+1713608891 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\monster.cpp
+	"monster.h"
+
+1712123387 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\nogravity.h
+	<SDL.h>
+	"Character.h"
+	<vector>
+
+1712123414 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\nogravity.cpp
+	"nogravity.h"
+
+1713714106 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\gameconstants.h
+	<vector>
+	<string>
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1712724362 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\onlygamevariable.h
+
+1713067903 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\bigenemy.cpp
+	"bigenemy.h"
+
+1713067903 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\bigenemy.h
+	"gameconstants.h"
+
+1713722170 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\characters\bigenemy.cpp
+	"../../Headers/characters/bigenemy.h"
+
+1713718021 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\characters\bigenemy.h
+	"../games/gameconstants.h"
+
+1714118742 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\games\gameconstants.h
+	<vector>
+	<string>
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1714055922 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\characters\character.cpp
+	"../../Headers/characters/character.h"
+
+1714036789 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\characters\character.h
+	"../games/gameconstants.h"
+	"../games/soundconstants.h"
+
+1713718223 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\characters\enemy.cpp
+	"../../Headers/characters/enemy.h"
+
+1713718019 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\characters\enemy.h
+	"../games/gameconstants.h"
+
+1713718346 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\items\explosion.cpp
+	"../../Headers/items/explosion.h"
+
+1713718143 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\items\explosion.h
+	<SDL.h>
+	"../characters/character.h"
+	"../characters/enemy.h"
+	<vector>
+
+1713722215 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\items\invisible.cpp
+	"../../Headers/items/invisible.h"
+
+1713718144 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\items\invisible.h
+	"../characters/character.h"
+
+1713718344 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\items\nogravity.cpp
+	"../../Headers/items/nogravity.h"
+
+1713718145 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\items\nogravity.h
+	<SDL.h>
+	"../characters/character.h"
+	<vector>
+
+1713722214 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\items\monster.cpp
+	"../../Headers/items/monster.h"
+
+1713718422 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\items\monster.h
+	"../characters/character.h"
+
+1713718343 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\items\skill.cpp
+	"../../Headers/items/skill.h"
+
+1713718448 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\items\skill.h
+	"../games/gameconstants.h"
+	"../characters/character.h"
+	"../characters/enemy.h"
+
+1714124899 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\games\game.h
+	<iomanip>
+	<algorithm>
+	<thread>
+	<fstream>
+	"gameconstants.h"
+	"../characters/character.h"
+	"../characters/Enemy.h"
+	"../items/Skill.h"
+	"../items/monster.h"
+	"../items/explosion.h"
+	"../items/invisible.h"
+	"../items/nogravity.h"
+	"../characters/bigenemy.h"
+	"../background/background.h"
+	"../characters/ai.h"
+
+1714127131 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\games\game.cpp
+	"../../Headers/games/game.h"
+
+1714036642 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\games\soundconstants.h
+
+1714063371 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\background\background.cpp
+	"../../Headers/background/background.h"
+
+1714060441 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\background\background.h
+	"../games/gameconstants.h"
+
+1714122928 c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\headers\characters\ai.h
+	"../games/gameconstants.h"
+	"character.h"
+	"enemy.h"
+	"bigenemy.h"
+	<vector>
+	<cmath>
+
+1714125155 source:c:\users\admin\downloads\workspace\game\sdl-codeblock\blockgame\sources\characters\ai.cpp
+	"../../Headers/characters/ai.h"
+	<algorithm>
+
