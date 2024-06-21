@@ -1,6 +1,6 @@
 # Among us Jump
-- Thử nghiệm game: https://www.youtube.com/watch?v=wMEQ3bGmE-M
-- Cấu trúc code: https://www.youtube.com/watch?v=D7vINjFpcjw
+- Thử nghiệm game:
+- Cấu trúc code:
 
 ## Giới thiệu 
 Among us Jump là game với lối chơi vui và hài hước. Nhập vai vào nhân vật Among us, bạn hãy cố gắng
